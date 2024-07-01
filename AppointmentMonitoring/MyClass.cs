@@ -1,4 +1,4 @@
-﻿namespace REPONAME
+﻿namespace AppointmentMonitoring
 {
     public class MyClass
     {

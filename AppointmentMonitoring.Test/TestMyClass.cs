@@ -1,4 +1,4 @@
-﻿namespace REPONAME.Test
+﻿namespace AppointmentMonitoring.Test
 {
     [TestClass]
     public class TestMyClass
